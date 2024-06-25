@@ -1,0 +1,17 @@
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\bin\Debug\net8.0-windows\SarmientoMidterms.exe
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\bin\Debug\net8.0-windows\SarmientoMidterms.deps.json
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\bin\Debug\net8.0-windows\SarmientoMidterms.runtimeconfig.json
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\bin\Debug\net8.0-windows\SarmientoMidterms.dll
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\bin\Debug\net8.0-windows\SarmientoMidterms.pdb
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.MidtermsCalculator.resources
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.csproj.GenerateResource.cache
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.AssemblyInfoInputs.cache
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.AssemblyInfo.cs
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.csproj.CoreCompileInputs.cache
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.dll
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\refint\SarmientoMidterms.dll
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.pdb
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.genruntimeconfig.cache
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\ref\SarmientoMidterms.dll
+C:\Users\shima\source\repos\SarmientoMidterms\SarmientoMidterms\obj\Debug\net8.0-windows\SarmientoMidterms.Properties.Resources.resources
